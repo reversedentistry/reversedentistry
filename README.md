@@ -1,5 +1,11 @@
 # Hello! My name is Sheryl 👋
 
+I am a web developer in the US.
+
+- I am currently learning how to use React
+- In my spare time, I love playing D&D and video games!
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheryl-hu-b29090168/)
+
 <!--
 **reversedentistry/reversedentistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
