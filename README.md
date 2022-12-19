@@ -2,7 +2,7 @@
 
 I am a web developer in the US.
 
-- I am currently learning React and how to build a MERN stack.
+- I am currently learning Java to learn back end development.
 - In my spare time, I love playing D&D and video games!
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheryl-hu-b29090168/)
 ---
