@@ -1,6 +1,6 @@
 # Hello! My name is Sheryl 👋
 
-I am a web developer in the US.
+I am a software engineer in the US.
 
 - I am currently learning the Spring framework.
 - In my spare time, I love playing D&D and video games!
