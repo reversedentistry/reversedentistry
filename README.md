@@ -1,6 +1,6 @@
 # Hello! My name is Sheryl 👋
 
-I am a software engineer in the US.
+I am a software developer in the US.
 
 - I am a Java full stack developer currently learning the C#/.NET framework. 
 - In my spare time, I love playing D&D and video games and reading! 
